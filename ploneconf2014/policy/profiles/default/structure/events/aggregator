@@ -1,0 +1,27 @@
+id: aggregator
+title: Events
+description: Site Events
+presentation: False
+tableContents: False
+sort_on: start
+sort_reversed: False
+limit: 1000
+customViewFields: Title
+  Creator
+  Type
+  ModificationDate
+subject: 
+relatedItems: 
+location: 
+language: es-mx
+effectiveDate: None
+expirationDate: None
+creation_date: 2014/07/15 11:03:43.164700 GMT-0430
+modification_date: 2014/07/15 11:03:43.164826 GMT-0430
+creators: admin
+contributors: 
+rights: 
+allowDiscussion: False
+excludeFromNav: False
+Content-Type: text/html
+

@@ -1,0 +1,27 @@
+id: aggregator
+title: News
+description: Site News
+presentation: False
+tableContents: False
+sort_on: effective
+sort_reversed: True
+limit: 1000
+customViewFields: Title
+  Creator
+  Type
+  ModificationDate
+subject: 
+relatedItems: 
+location: 
+language: es-mx
+effectiveDate: None
+expirationDate: None
+creation_date: 2014/07/15 11:03:43.091904 GMT-0430
+modification_date: 2014/07/15 11:03:43.092041 GMT-0430
+creators: admin
+contributors: 
+rights: 
+allowDiscussion: False
+excludeFromNav: False
+Content-Type: text/html
+

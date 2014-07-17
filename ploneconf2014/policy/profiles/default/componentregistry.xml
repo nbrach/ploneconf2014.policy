@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<componentregistry>
+ <adapters>
+  <adapter name="plone.footer"
+     factory="five.customerize.zpt.zope.interface.interface-plone.footer"
+     for="zope.interface.Interface
+           zope.publisher.interfaces.browser.IDefaultBrowserLayer
+           zope.browser.interfaces.IBrowserView
+           plone.app.layout.viewlets.interfaces.IPortalFooter"
+     provides="zope.viewlet.interfaces.IViewlet"/>
+ </adapters>
+ <subscribers/>
+</componentregistry>
