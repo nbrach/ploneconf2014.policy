@@ -25,6 +25,9 @@ setup(name='ploneconf2014.policy',
       zip_safe=False,
       install_requires=[
           'setuptools',
+          'plone.api',
+          'ploneconf2014.theme',
+          'ploneconf2014.contenttype',
           # -*- Extra requirements: -*-
       ],
       extras_require={

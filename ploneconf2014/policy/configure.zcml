@@ -9,7 +9,7 @@
 
   <genericsetup:registerProfile
       name="default"
-      title="ploneconf2014.policy"
+      title="Ploneconf 2014 Web site policy"
       directory="profiles/default"
       description="Installs the ploneconf2014.policy package"
       provides="Products.GenericSetup.interfaces.EXTENSION"
